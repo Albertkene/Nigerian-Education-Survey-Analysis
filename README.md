@@ -4,7 +4,7 @@ This project presents a data-driven analysis of a nationwide education survey co
 
 The goal of the project is to uncover major challenges, perceptions, and inequalities within the Nigerian education sector using interactive Power BI dashboards.
 
-# Project Objectives
+## Project Objectives
 
 This analysis aims to:
 
@@ -14,7 +14,7 @@ Assess access to digital tools for teaching and learning
 Examine school fee affordability among parents
 Identify the top challenges facing Nigerian education
 Explore differences across school type, location, age group, and gender
-# Key Insights
+## Key Insights
 
 Some major findings from the survey include:
 
@@ -33,7 +33,7 @@ Students in mission schools rated access to learning materials highest, while go
 Power BI – Data cleaning, modeling, DAX measures, and dashboard creation
 Power Query – Data transformation and categorization
 Survey Data – Responses from 230+ education stakeholders
-# Dashboard Features
+## Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -45,7 +45,11 @@ School Type (Government / Private / Mission)
 Age group and gender
 Access to digital tools
 Top perceived education challenges
-# Why This Project Matters
+## Why This Project Matters
 
 Education is a critical driver of national development.
 This project demonstrates how data analytics can be used to highlight systemic issues and support evidence-based decision-making in the education sector.
+
+## Project Conclusion
+The data tells a powerful story: Nigeria’s education system is not failing suddenly — it is slowly stagnating.
+Without urgent investment, digital transformation, and policy reform, the future of learning risks remaining average in a world that demands excellence.
